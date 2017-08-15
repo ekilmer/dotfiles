@@ -20,14 +20,14 @@ casks=(
   # Applications
   a-better-finder-rename
   android-platform-tools
-  battle-net
+  # battle-net
   bettertouchtool
   charles
   chromium
-  chronosync
+  # chronosync
   controllermate
   docker
-  dropbox
+  # dropbox
   fastscripts
   firefox
   gyazo
@@ -38,18 +38,18 @@ casks=(
   macvim
   messenger-for-desktop
   midi-monitor
-  moom
-  omnidisksweeper
-  race-for-the-galaxy
-  reaper
+  # moom
+  # omnidisksweeper
+  # race-for-the-galaxy
+  # reaper
   robo-3t
-  screenhero
-  scroll-reverser
-  skype
-  slack
+  # screenhero
+  # scroll-reverser
+  # skype
+  # slack
   sourcetree
-  spotify
-  steam
+  # spotify
+  # steam
   the-unarchiver
   totalfinder
   tower
